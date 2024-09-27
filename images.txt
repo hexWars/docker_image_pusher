@@ -5,6 +5,7 @@ nginx
 gitlab/gitlab-ce:16.11.10-ce.0
 gitlab/gitlab-ce:17.0.0-ce.0
 gitlab/gitlab-ce:17.0.8-ce.0
+gitlab/gitlab-runner:v17.0.1
 golang:1.22.5
 louislam/uptime-kuma:1.23.13
 #支持指定架构
