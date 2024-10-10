@@ -4,7 +4,7 @@ nginx
 #node:12.10.0
 #gitlab/gitlab-ce:16.11.10-ce.0
 #gitlab/gitlab-ce:17.0.0-ce.0
-gitlab/gitlab-ce:17.2.8-ce.0
+gitlab/gitlab-ce:17.3.5-ce.0
 gitlab/gitlab-runner:v17.2.1
 #golang:1.22.5
 #louislam/uptime-kuma:1.23.13
