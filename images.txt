@@ -3,14 +3,16 @@ nginx
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #node:12.10.0
 
-gitlab/gitlab-ce:17.3.5-ce.0
-gitlab/gitlab-runner:v17.2.1
+#gitlab/gitlab-ce:17.3.5-ce.0
+#gitlab/gitlab-runner:v17.2.1
 
-gitlab/gitlab-ce:17.5.5-ce.0
-gitlab/gitlab-runner:v17.5.5
+#gitlab/gitlab-ce:17.5.5-ce.0
+#gitlab/gitlab-runner:v17.5.5
 
-gitlab/gitlab-ce:17.8.6-ce.0
-gitlab/gitlab-runner:v17.8.5
+#gitlab/gitlab-ce:17.8.6-ce.0
+#gitlab/gitlab-runner:v17.8.5
+
+phpswoole/swoole:5.1.7-php8.2
 
 #golang:1.22.5
 #louislam/uptime-kuma:1.23.13
