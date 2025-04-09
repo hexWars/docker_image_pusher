@@ -13,6 +13,7 @@ nginx
 #gitlab/gitlab-runner:v17.8.5
 
 phpswoole/swoole:5.1.7-php8.2
+phpswoole/swoole:5.1.7-php8.2-alpine
 
 #golang:1.22.5
 #louislam/uptime-kuma:1.23.13
